@@ -1,0 +1,1847 @@
+TWickedWalksNewYork
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C60B8290000000000000132
+t1281407017
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C01F5AE00000000000C05A0
+t1275196846
+s787872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C01F5AA000000000000065C
+t1275196842
+s1628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004BFDFD850000000000236AB0
+t1274936709
+s2321072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004C047247000000000000027E
+t1275359815
+s638
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/Diane/Desktop/WickedWalksNewYork/#14 Front Door.png
+c000000004C8F917B00000000000458DF
+t1284477307
+s284895
+
+N/Users/Diane/Desktop/WickedWalksNewYork/AboutViewController.h
+c000000004C966E740000000000000110
+t1284927092
+s272
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/AboutViewController.m
+c000000004C966E7400000000000006CE
+t1284927092
+s1742
+i"AboutViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/AboutViewController.xib
+c000000004C94273000000000000080BA
+t1284777776
+s32954
+
+N/Users/Diane/Desktop/WickedWalksNewYork/AppDelegate.h
+c000000004C966E7400000000000001A6
+t1284927092
+s422
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/AppDelegate.m
+c000000004C966E74000000000000058C
+t1284927092
+s1420
+i"AppDelegate.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Brittany Hall exterior.png
+c000000004C8E9D790000000000046CE1
+t1284414841
+s290017
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Brittany Hall gallery.png
+c000000004C8EA1CC000000000003111D
+t1284415948
+s200989
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Brittany Residence Hall.png
+c000000004C8E9FBA00000000000218D5
+t1284415418
+s137429
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Brown Building of Science.png
+c000000004C8F9DC50000000000020BA4
+t1284480453
+s134052
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Brown Building plaque.png
+c000000004C8F9F03000000000002CC01
+t1284480771
+s183297
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Brown Building.png
+c000000004C8F9CC8000000000003AE59
+t1284480200
+s241241
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Constants.h
+c000000004C966E740000000000000143
+t1284927092
+s323
+
+N/Users/Diane/Desktop/WickedWalksNewYork/DirectionsViewController.h
+c000000004C966E74000000000000011C
+t1284927092
+s284
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/DirectionsViewController.m
+c000000004C966E7400000000000006EC
+t1284927092
+s1772
+i"DirectionsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/DirectionsViewController.xib
+c000000004C942688000000000000BEEA
+t1284777608
+s48874
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Fire Patrol #2 exterior.png
+c000000004C8F9765000000000001CD66
+t1284478821
+s118118
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Fire Patrol #2.png
+c000000004C8F9687000000000003E244
+t1284478599
+s254532
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Gertrude Tredwell.png
+c000000004C9673C3000000000000A266
+t1284928451
+s41574
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Hanging Elms.png
+c000000004C8F9319000000000003661B
+t1284477721
+s222747
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Harry Houdini 1899.png
+c000000004C8FB4CF000000000001F95E
+t1284486351
+s129374
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Header1.png
+c000000004C97425F000000000003215D
+t1284981343
+s205149
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Header1old.png
+c000000004C9654C400000000000366C7
+t1284920516
+s222919
+
+N/Users/Diane/Desktop/WickedWalksNewYork/HelpViewController.h
+c000000004C966E74000000000000010E
+t1284927092
+s270
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/HelpViewController.m
+c000000004C966E7400000000000006CC
+t1284927092
+s1740
+i"HelpViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/HelpViewController.xib
+c000000004C538CA00000000000007200
+t1280543904
+s29184
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Houdini's handcuffs.png
+c000000004C8E940B0000000000030609
+t1284412427
+s198153
+
+N/Users/Diane/Desktop/WickedWalksNewYork/HoursViewController.h
+c000000004C966E740000000000000110
+t1284927092
+s272
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/HoursViewController.m
+c000000004C966E7400000000000006CE
+t1284927092
+s1742
+i"HoursViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/HoursViewController.xib
+c000000004C942881000000000000B336
+t1284778113
+s45878
+
+N/Users/Diane/Desktop/WickedWalksNewYork/House of Death.png
+c000000004C8F8FDC0000000000021FB0
+t1284476892
+s139184
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Icon.png
+c000000004C9104390000000000001D78
+t1284572217
+s7544
+
+N/Users/Diane/Desktop/WickedWalksNewYork/InfoScreen1.png
+c000000004C9113A3000000000002DF6C
+t1284576163
+s188268
+
+N/Users/Diane/Desktop/WickedWalksNewYork/InfoScreen2.png
+c000000004C912AA8000000000003F052
+t1284582056
+s258130
+
+N/Users/Diane/Desktop/WickedWalksNewYork/InfoScreen3.png
+c000000004C9387F6000000000003A897
+t1284737014
+s239767
+
+N/Users/Diane/Desktop/WickedWalksNewYork/InfoScreen4.png
+c000000004C9389450000000000049EA0
+t1284737349
+s302752
+
+N/Users/Diane/Desktop/WickedWalksNewYork/InfoScreen5x.png
+c000000004C9392FE000000000005A325
+t1284739838
+s369445
+
+N/Users/Diane/Desktop/WickedWalksNewYork/InfoScreen6x.png
+c000000004C9393BE0000000000054AB0
+t1284740030
+s346800
+
+N/Users/Diane/Desktop/WickedWalksNewYork/InfoScreen7.png
+c000000004C939625000000000002B256
+t1284740645
+s176726
+
+N/Users/Diane/Desktop/WickedWalksNewYork/InfoScreen8.png
+c000000004C9396940000000000055768
+t1284740756
+s350056
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Infobutton.png
+c000000004BE224F900000000000003E1
+t1273111801
+s993
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Joel Steinberg.png
+c000000004C8FB3FD0000000000004BEB
+t1284486141
+s19435
+
+N/Users/Diane/Desktop/WickedWalksNewYork/LargePhotoViewController.h
+c000000004C966E740000000000000190
+t1284927092
+s400
+
+N/Users/Diane/Desktop/WickedWalksNewYork/LargePhotoViewController.m
+c000000004C966E7400000000000004C7
+t1284927092
+s1223
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Lincoln Wanted poster.png
+c000000004C8E8FD4000000000003994B
+t1284411348
+s235851
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Lincoln funeral carriage doors.png
+c000000004C8E92BA000000000002FD6B
+t1284412090
+s195947
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Lisa Launders Grave.png
+c000000004C8FB6350000000000025ED4
+t1284486709
+s155348
+
+N/Users/Diane/Desktop/WickedWalksNewYork/MapViewIcon.png
+c000000004B9455ED00000000000000FC
+t1268012525
+s252
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Mark Twain.png
+c000000004C9674A200000000000155AC
+t1284928674
+s87468
+
+N/Users/Diane/Desktop/WickedWalksNewYork/McSorley's bartender.png
+c000000004C8E8AAD0000000000036A99
+t1284410029
+s223897
+
+N/Users/Diane/Desktop/WickedWalksNewYork/McSorley's.png
+c000000004C8E89D50000000000024DEB
+t1284409813
+s151019
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Merchant's House dining room.png
+c000000004C8FB743000000000001D5B0
+t1284486979
+s120240
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Merchant's House plaque.png
+c000000004C8F9FEA0000000000024643
+t1284481002
+s149059
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageEightViewController.h
+c000000004C966E74000000000000039B
+t1284927092
+s923
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageEightViewController.m
+c000000004C9742140000000000003312
+t1284981268
+s13074
+i"PageEightViewController.h"
+i"Constants.h"
+i"PageSevenViewController.h"
+i"PageNineViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageEightViewController.xib
+c000000004C9741C2000000000000C2C9
+t1284981186
+s49865
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageFiveViewController.h
+c000000004C966E74000000000000039A
+t1284927092
+s922
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageFiveViewController.m
+c000000004C966E7400000000000032F9
+t1284927092
+s13049
+i"PageFiveViewController.h"
+i"Constants.h"
+i"PageFourViewController.h"
+i"PageSixViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageFourViewController.h
+c000000004C966E740000000000000399
+t1284927092
+s921
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageFourViewController.m
+c000000004C966E740000000000003309
+t1284927092
+s13065
+i"PageFourViewController.h"
+i"Constants.h"
+i"PageThreeViewController.h"
+i"PageFiveViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageNineViewController.h
+c000000004C64A2B60000000000000396
+t1281663670
+s918
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageNineViewController.m
+c000000004C966A710000000000003302
+t1284926065
+s13058
+i"PageNineViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageEightViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageNineViewController.xib
+c000000004C96D242000000000000B8C4
+t1284952642
+s47300
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageOneViewController.h
+c000000004C966E74000000000000039B
+t1284927092
+s923
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageOneViewController.m
+c000000004C966E74000000000000334A
+t1284927092
+s13130
+i"PageNineViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageSevenViewController.h
+c000000004C966E74000000000000039C
+t1284927092
+s924
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageSevenViewController.m
+c000000004C966E740000000000003309
+t1284927092
+s13065
+i"PageSevenViewController.h"
+i"Constants.h"
+i"PageSixViewController.h"
+i"PageEightViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageSevenViewController.xib
+c000000004C966213000000000000886D
+t1284923923
+s34925
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageSixViewController.h
+c000000004C966E740000000000000398
+t1284927092
+s920
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageSixViewController.m
+c000000004C966E740000000000003305
+t1284927092
+s13061
+i"PageSixViewController.h"
+i"Constants.h"
+i"PageFiveViewController.h"
+i"PageSevenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageSixViewController.xib
+c000000004C965BDD0000000000009A1F
+t1284922333
+s39455
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageThreeViewController.h
+c000000004C966E74000000000000039D
+t1284927092
+s925
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageThreeViewController.m
+c000000004C966E740000000000003303
+t1284927092
+s13059
+i"PageThreeViewController.h"
+i"Constants.h"
+i"PageTwoViewController.h"
+i"PageFourViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageTwoViewController.h
+c000000004C966E740000000000000398
+t1284927092
+s920
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PageTwoViewController.m
+c000000004C966E7400000000000033B5
+t1284927092
+s13237
+i"PageTwoViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageThreeViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Peter Stuyvesant 1660.png
+c000000004C9673F00000000000015A14
+t1284928496
+s88596
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Peter Stuyvesant statue.png
+c000000004C8E958B000000000003731E
+t1284412811
+s226078
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PinDRed1.png
+c000000004BAE990900000000000009FE
+t1269733641
+s2558
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PinDRed10.png
+c000000004BC931F70000000000000A50
+t1271476727
+s2640
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PinDRed11.png
+c000000004BC9320D0000000000000A0C
+t1271476749
+s2572
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PinDRed12.png
+c000000004BC9321D0000000000000A50
+t1271476765
+s2640
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PinDRed13.png
+c000000004C436D150000000000000A4B
+t1279487253
+s2635
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PinDRed2.png
+c000000004BAE93160000000000000A38
+t1269732118
+s2616
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PinDRed3.png
+c000000004BAE992A0000000000000A43
+t1269733674
+s2627
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PinDRed4.png
+c000000004BAE99450000000000000A20
+t1269733701
+s2592
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PinDRed5.png
+c000000004BC9316F0000000000000A40
+t1271476591
+s2624
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PinDRed6.png
+c000000004BC931870000000000000A42
+t1271476615
+s2626
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PinDRed7.png
+c000000004BC9319A0000000000000A28
+t1271476634
+s2600
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PinDRed8.png
+c000000004BC931AB0000000000000A5E
+t1271476651
+s2654
+
+N/Users/Diane/Desktop/WickedWalksNewYork/PinDRed9.png
+c000000004BC931BD0000000000000A50
+t1271476669
+s2640
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Playbutton.png
+c000000004BE21F070000000000000154
+t1273110279
+s340
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Poe House.png
+c000000004C8F9AF9000000000001FFFB
+t1284479737
+s131067
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Poe portrait.png
+c000000004C8FB85F0000000000017F65
+t1284487263
+s98149
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Prefix.pch
+c0000000049FB55000000000000000058
+t1241208064
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/St Mark's Church.png
+c000000004C8E97E400000000000284ED
+t1284413412
+s165101
+
+N/Users/Diane/Desktop/WickedWalksNewYork/St Mark's exterior.png
+c000000004C8E94C5000000000005383D
+t1284412613
+s342077
+
+N/Users/Diane/Desktop/WickedWalksNewYork/TableViewIcon.png
+c000000004B93EAEB00000000000000BA
+t1267985131
+s186
+
+N/Users/Diane/Desktop/WickedWalksNewYork/The Merchant's House.png
+c000000004C9675B200000000000248E0
+t1284928946
+s149728
+
+N/Users/Diane/Desktop/WickedWalksNewYork/TipsViewController.h
+c000000004C966E74000000000000010E
+t1284927092
+s270
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/TipsViewController.m
+c000000004C966E7400000000000006D9
+t1284927092
+s1753
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/TipsViewController.xib
+c000000004C96D0970000000000005E4E
+t1284952215
+s24142
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Triangle Company Funeral Parade.png
+c000000004C8FB976000000000000DCFD
+t1284487542
+s56573
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Triangle Company fire coffins.png
+c000000004C8FB91A000000000001E427
+t1284487450
+s123943
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Triangle Company street below.png
+c000000004C8FF0290000000000002802
+t1284501545
+s10242
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Virginia Poe.png
+c000000004C8FB9DC0000000000016A02
+t1284487644
+s92674
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Washington Square Arch.png
+c000000004C8F95C4000000000002ADD0
+t1284478404
+s175568
+
+N/Users/Diane/Desktop/WickedWalksNewYork/Washington Square Park.png
+c000000004C8F93F10000000000026870
+t1284477937
+s157808
+
+N/Users/Diane/Desktop/WickedWalksNewYork/bp_btn1.png
+c000000004BB540450000000000000502
+t1270169669
+s1282
+
+N/Users/Diane/Desktop/WickedWalksNewYork/bp_btn2.png
+c000000004BB540450000000000000501
+t1270169669
+s1281
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app.dSYM
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/#14 Front Door.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/AboutViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Brittany Hall exterior.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Brittany Hall gallery.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Brittany Residence Hall.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Brown Building of Science.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Brown Building plaque.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Brown Building.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/DirectionsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Fire Patrol #2 exterior.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Fire Patrol #2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Gertrude Tredwell.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Hanging Elms.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Harry Houdini 1899.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Header1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Header1old.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/HelpViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Houdini's handcuffs.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/HoursViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/House of Death.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Icon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Info.plist
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen3.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen4.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen5x.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen6x.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen7.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen8.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Infobutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Joel Steinberg.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Lincoln Wanted poster.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Lincoln funeral carriage doors.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Lisa Launders Grave.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/MapViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Mark Twain.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/McSorley's bartender.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/McSorley's.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Merchant's House dining room.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Merchant's House plaque.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PageEightViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PageNineViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PageSevenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PageSixViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Peter Stuyvesant 1660.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Peter Stuyvesant statue.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed10.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed11.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed12.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed13.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed3.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed4.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed5.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed6.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed7.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed8.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed9.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/PkgInfo
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Playbutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Poe House.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Poe portrait.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/St Mark's Church.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/St Mark's exterior.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/TableViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/The Merchant's House.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/TipsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Triangle Company Funeral Parade.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Triangle Company fire coffins.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Triangle Company street below.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Virginia Poe.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Washington Square Arch.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Washington Square Park.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/WickedWalksNewYork
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/bp_btn1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/bp_btn2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/en.lproj/PageFiveViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/en.lproj/PageFourViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/en.lproj/PageOneViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/en.lproj/PageThreeViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/en.lproj/PageTwoViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac1.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac2.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac3.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac4.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac5.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac6.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac7.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac8.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac9.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable3.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable4.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable5.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable6.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable7.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable8.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable9.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/pausebutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/volume_up.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/AboutViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/DirectionsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/HelpViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/HoursViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/LargePhotoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageEightViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageFiveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageFourViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageNineViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageOneViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageSevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageSixViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageThreeViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageTwoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/TipsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/WickedWalksNewYork.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/infoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/mapViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/tableViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/wwAnnotation.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/wwAnnotationView.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewYork/en.lproj/InfoPlist.strings
+c0000000049FB5500000000000000015A
+t1241208064
+s346
+
+N/Users/Diane/Desktop/WickedWalksNewYork/en.lproj/Localizable.strings
+c000000004C16E729000000000000022A
+t1276569385
+s554
+
+N/Users/Diane/Desktop/WickedWalksNewYork/en.lproj/MainWindow.xib
+c000000004C942697000000000000BCDB
+t1284777623
+s48347
+
+N/Users/Diane/Desktop/WickedWalksNewYork/en.lproj/PageFiveViewController.xib
+c000000004C9659690000000000009F6C
+t1284921705
+s40812
+
+N/Users/Diane/Desktop/WickedWalksNewYork/en.lproj/PageFourViewController.xib
+c000000004C96D764000000000000C90B
+t1284953956
+s51467
+
+N/Users/Diane/Desktop/WickedWalksNewYork/en.lproj/PageOneViewController.xib
+c000000004C96D0FE000000000000CD84
+t1284952318
+s52612
+
+N/Users/Diane/Desktop/WickedWalksNewYork/en.lproj/PageThreeViewController.xib
+c000000004C961F5400000000000099C0
+t1284906836
+s39360
+
+N/Users/Diane/Desktop/WickedWalksNewYork/en.lproj/PageTwoViewController.xib
+c000000004C96CF68000000000000B38D
+t1284951912
+s45965
+
+N/Users/Diane/Desktop/WickedWalksNewYork/infoViewController.h
+c000000004C966E7400000000000001DA
+t1284927092
+s474
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/infoViewController.m
+c000000004C97434200000000000022BA
+t1284981570
+s8890
+i"infoViewController.h"
+i"DirectionsViewController.h"
+i"HelpViewController.h"
+i"AboutViewController.h"
+i"HoursViewController.h"
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/main.m
+c000000004C966E74000000000000017C
+t1284927092
+s380
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/mapViewController.h
+c000000004C966E7400000000000002F9
+t1284927092
+s761
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKAnnotation.h>
+i"wwAnnotation.h"
+i"wwAnnotationView.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/mapViewController.m
+c000000004C966E740000000000004639
+t1284927092
+s17977
+i"mapViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+i"PageNineViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolac1.mp3
+c000000004C8FCB82000000000029EB87
+t1284492162
+s2747271
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolac2.mp3
+c000000004C8FCF6500000000002EBF72
+t1284493157
+s3063666
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolac3.mp3
+c000000004C8FBD2C00000000002403B1
+t1284488492
+s2360241
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolac4.mp3
+c000000004C8FBF9C00000000003B61BB
+t1284489116
+s3891643
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolac5.mp3
+c000000004C8FD06700000000002E25FA
+t1284493415
+s3024378
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolac6.mp3
+c000000004C8FCE1A0000000000245553
+t1284492826
+s2381139
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolac7.mp3
+c000000004C8FBE36000000000027FE78
+t1284488758
+s2621048
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolac8.mp3
+c000000004C90EA4700000000002BC4FF
+t1284565575
+s2868479
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolac9.mp3
+c000000004C90EBBD000000000049F2B6
+t1284565949
+s4846262
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolactable1.png
+c000000004C8E98930000000000001187
+t1284413587
+s4487
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolactable2.png
+c000000004C8E98320000000000001241
+t1284413490
+s4673
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolactable3.png
+c000000004C8EA1FD0000000000001141
+t1284415997
+s4417
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolactable4.png
+c000000004C8F92350000000000000E43
+t1284477493
+s3651
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolactable5.png
+c000000004C8F95AD0000000000000FAE
+t1284478381
+s4014
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolactable6.png
+c000000004C8F9BF40000000000001084
+t1284479988
+s4228
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolactable7.png
+c000000004C8F97E10000000000001069
+t1284478945
+s4201
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolactable8.png
+c000000004C8F9E5F0000000000001131
+t1284480607
+s4401
+
+N/Users/Diane/Desktop/WickedWalksNewYork/nolactable9.png
+c000000004C8FBA6B0000000000000F1E
+t1284487787
+s3870
+
+N/Users/Diane/Desktop/WickedWalksNewYork/pausebutton.png
+c000000004BE2211900000000000000E0
+t1273110809
+s224
+
+N/Users/Diane/Desktop/WickedWalksNewYork/tableViewController.h
+c000000004C966E7400000000000001DD
+t1284927092
+s477
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/tableViewController.m
+c000000004C966E74000000000000239C
+t1284927092
+s9116
+i"tableViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+i"PageNineViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/volume_up.png
+c0000000049B6E5FE000000000000049C
+t1236723198
+s1180
+
+N/Users/Diane/Desktop/WickedWalksNewYork/wwAnnotation.h
+c000000004C966E740000000000000333
+t1284927092
+s819
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewYork/wwAnnotation.m
+c000000004C966E740000000000000286
+t1284927092
+s646
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/wwAnnotationView.h
+c000000004C966E740000000000000173
+t1284927092
+s371
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/WickedWalksNewYork/wwAnnotationView.m
+c000000004C966E740000000000001235
+t1284927092
+s4661
+i"wwAnnotationView.h"
+
+N/var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cvcsxvuwsuxvcshikttyksihqqws/Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004C96863000000000000003DF
+t1284933168
+s991
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/AboutViewController.o /Users/Diane/Desktop/WickedWalksNewYork/AboutViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/AppDelegate.o /Users/Diane/Desktop/WickedWalksNewYork/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/DirectionsViewController.o /Users/Diane/Desktop/WickedWalksNewYork/DirectionsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/HelpViewController.o /Users/Diane/Desktop/WickedWalksNewYork/HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/HoursViewController.o /Users/Diane/Desktop/WickedWalksNewYork/HoursViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/LargePhotoViewController.o /Users/Diane/Desktop/WickedWalksNewYork/LargePhotoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageEightViewController.o /Users/Diane/Desktop/WickedWalksNewYork/PageEightViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageFiveViewController.o /Users/Diane/Desktop/WickedWalksNewYork/PageFiveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageFourViewController.o /Users/Diane/Desktop/WickedWalksNewYork/PageFourViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageNineViewController.o /Users/Diane/Desktop/WickedWalksNewYork/PageNineViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageOneViewController.o /Users/Diane/Desktop/WickedWalksNewYork/PageOneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageSevenViewController.o /Users/Diane/Desktop/WickedWalksNewYork/PageSevenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageSixViewController.o /Users/Diane/Desktop/WickedWalksNewYork/PageSixViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageThreeViewController.o /Users/Diane/Desktop/WickedWalksNewYork/PageThreeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/PageTwoViewController.o /Users/Diane/Desktop/WickedWalksNewYork/PageTwoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/TipsViewController.o /Users/Diane/Desktop/WickedWalksNewYork/TipsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/infoViewController.o /Users/Diane/Desktop/WickedWalksNewYork/infoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/main.o /Users/Diane/Desktop/WickedWalksNewYork/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/mapViewController.o /Users/Diane/Desktop/WickedWalksNewYork/mapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/tableViewController.o /Users/Diane/Desktop/WickedWalksNewYork/tableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/wwAnnotation.o /Users/Diane/Desktop/WickedWalksNewYork/wwAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksNewYork.build/Distribution-iphonesimulator/WickedWalksNewYork.build/Objects-normal/i386/wwAnnotationView.o /Users/Diane/Desktop/WickedWalksNewYork/wwAnnotationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/AboutViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/DirectionsViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/HelpViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/HoursViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/PageEightViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/PageNineViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/PageSevenViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/PageSixViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/TipsViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/en.lproj/PageFiveViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/en.lproj/PageFourViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/en.lproj/PageOneViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/en.lproj/PageThreeViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewYork/en.lproj/PageTwoViewController.xib
+r0
+
+CCopyStringsFile /Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/#14 Front Door.png" "#14 Front Door.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Brittany Hall exterior.png" "Brittany Hall exterior.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Brittany Hall gallery.png" "Brittany Hall gallery.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Brittany Residence Hall.png" "Brittany Residence Hall.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Brown Building of Science.png" "Brown Building of Science.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Brown Building plaque.png" "Brown Building plaque.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Brown Building.png" "Brown Building.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Fire Patrol #2 exterior.png" "Fire Patrol #2 exterior.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Fire Patrol #2.png" "Fire Patrol #2.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Gertrude Tredwell.png" "Gertrude Tredwell.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Hanging Elms.png" "Hanging Elms.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Harry Houdini 1899.png" "Harry Houdini 1899.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Houdini's handcuffs.png" "Houdini's handcuffs.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/House of Death.png" "House of Death.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Joel Steinberg.png" "Joel Steinberg.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Lincoln Wanted poster.png" "Lincoln Wanted poster.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Lincoln funeral carriage doors.png" "Lincoln funeral carriage doors.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Lisa Launders Grave.png" "Lisa Launders Grave.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Mark Twain.png" "Mark Twain.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/McSorley's bartender.png" "McSorley's bartender.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Merchant's House dining room.png" "Merchant's House dining room.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Merchant's House plaque.png" "Merchant's House plaque.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Peter Stuyvesant 1660.png" "Peter Stuyvesant 1660.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Peter Stuyvesant statue.png" "Peter Stuyvesant statue.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Poe House.png" "Poe House.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Poe portrait.png" "Poe portrait.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/St Mark's Church.png" "St Mark's Church.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/St Mark's exterior.png" "St Mark's exterior.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/The Merchant's House.png" "The Merchant's House.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Triangle Company Funeral Parade.png" "Triangle Company Funeral Parade.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Triangle Company fire coffins.png" "Triangle Company fire coffins.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Triangle Company street below.png" "Triangle Company street below.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Virginia Poe.png" "Virginia Poe.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Washington Square Arch.png" "Washington Square Arch.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksNewYork.app/Washington Square Park.png" "Washington Square Park.png"
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/Header1.png Header1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/Header1old.png Header1old.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/Icon.png Icon.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen1.png InfoScreen1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen2.png InfoScreen2.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen3.png InfoScreen3.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen4.png InfoScreen4.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen5x.png InfoScreen5x.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen6x.png InfoScreen6x.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen7.png InfoScreen7.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/InfoScreen8.png InfoScreen8.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/Infobutton.png Infobutton.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/MapViewIcon.png MapViewIcon.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/McSorley's.png McSorley's.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed1.png PinDRed1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed10.png PinDRed10.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed11.png PinDRed11.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed12.png PinDRed12.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed13.png PinDRed13.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed2.png PinDRed2.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed3.png PinDRed3.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed4.png PinDRed4.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed5.png PinDRed5.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed6.png PinDRed6.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed7.png PinDRed7.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed8.png PinDRed8.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/PinDRed9.png PinDRed9.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/Playbutton.png Playbutton.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/TableViewIcon.png TableViewIcon.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/bp_btn1.png bp_btn1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/bp_btn2.png bp_btn2.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac1.mp3 nolac1.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac2.mp3 nolac2.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac3.mp3 nolac3.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac4.mp3 nolac4.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac5.mp3 nolac5.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac6.mp3 nolac6.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac7.mp3 nolac7.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac8.mp3 nolac8.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolac9.mp3 nolac9.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable1.png nolactable1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable2.png nolactable2.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable3.png nolactable3.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable4.png nolactable4.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable5.png nolactable5.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable6.png nolactable6.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable7.png nolactable7.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable8.png nolactable8.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/nolactable9.png nolactable9.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/pausebutton.png pausebutton.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksNewYork.app/volume_up.png volume_up.png
+r0
+
+CGenerateDSYMFile /Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app.dSYM /Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/WickedWalksNewYork
+r0
+
+CLd /Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/WickedWalksNewYork normal i386
+r0
+
+CProcessInfoPlistFile /Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app/Info.plist Info.plist
+r0
+
+CProcessPCH /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cvcsxvuwsuxvcshikttyksihqqws/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/Diane/Desktop/WickedWalksNewYork/build/Distribution-iphonesimulator/WickedWalksNewYork.app
+r0
+
