@@ -100,7 +100,7 @@
 {
 	NSLog (@"viewdidload");
 	[scrollView setScrollEnabled:YES];
-	[scrollView setContentSize:CGSizeMake(320, 2390)];
+	[scrollView setContentSize:CGSizeMake(320, 2430)];
 	[scrollView setBackgroundColor:[UIColor colorWithRed:TEXT_BGCOLORVAL_RED/255.0 green:TEXT_BGCOLORVAL_GREEN/255.0 blue:TEXT_BGCOLORVAL_BLUE/255.0 alpha:1]];
 	
 	
@@ -119,7 +119,7 @@
     UISegmentedControl *segmentedControl = [[UISegmentedControl alloc] initWithItems:[NSArray arrayWithObjects:[UIImage imageNamed:@"back12.png"],[UIImage imageNamed:@"forward12.png"],nil]];
 	[segmentedControl addTarget:self action:@selector(segmentAction:) forControlEvents:UIControlEventValueChanged];
 	segmentedControl.frame = CGRectMake(50, 3, 55, 26);
-	segmentedControl.segmentedControlStyle = UISegmentedControlStyleBar;
+//	segmentedControl.segmentedControlStyle = UISegmentedControlStyleBar;
 	segmentedControl.momentary = YES;
     segmentedControl.tintColor = [UIColor whiteColor];
 /*	UISegmentedControl *segmentedControl = [[UISegmentedControl alloc] initWithItems:[NSArray arrayWithObjects:[UIImage imageNamed:@"bp_btn1.png"],[UIImage imageNamed:@"bp_btn2.png"],nil]];
